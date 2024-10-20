@@ -1,0 +1,13 @@
+{
+  "_template": "cookiecutter-hypermodern-python/",
+  "author": "Paul Conway",
+  "copyright_year": "2024",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "paulc00@gmail.com",
+  "friendly_name": "Instant Porridge",
+  "github_user": "paulc00",
+  "license": "MIT",
+  "package_name": "instant_porridge",
+  "project_name": "instant-porridge",
+  "version": "0.0.0"
+}
